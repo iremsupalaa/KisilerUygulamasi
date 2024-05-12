@@ -27,6 +27,6 @@ class AnasayfaViewModel {
     }
     func kisileriYukle() {
         krepo.kisileriYukle()
-        //Kişi yüklemesi yapılır
+        
     }
 }
